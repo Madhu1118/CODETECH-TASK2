@@ -14,6 +14,8 @@ Inventory Management System
 
 Overview of the project.
 
+![Screenshot 2024-12-27 145710](https://github.com/user-attachments/assets/8c5cdffc-a70c-4f61-aab1-54aba704d7fe)
+
 The Inventory Management System (IMS) is a Python-based application designed to help businesses manage and track their inventory efficiently. This system enables users to add, edit, and delete product records, monitor stock levels, and generate detailed reports, including low-stock alerts and sales summaries.
 
 The project is designed to address common inventory challenges, ensuring that products are always accounted for, reducing the chances of stockouts or overstocking. With an intuitive interface and powerful backend, this system streamlines the entire inventory management process.
